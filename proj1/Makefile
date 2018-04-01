@@ -1,5 +1,5 @@
 run: main.out
-	sudo ./main.out
+	./main.out
 
 all: main.out
 
