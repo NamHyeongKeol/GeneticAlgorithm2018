@@ -71,3 +71,4 @@ fabric.properties
 *.DS_Store
 *.idea*
 proj1/CMakeLists.txt
+*main.out
